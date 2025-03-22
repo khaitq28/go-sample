@@ -5,7 +5,7 @@ A comprehensive collection of Go programming examples and tutorials covering bot
 ## Structure
 
 ```
-tutorial/
+.
 ├── basic/
 │   ├── 01_basic_syntax.go
 │   ├── 02_control_structures.go
@@ -60,7 +60,7 @@ cd go-sample
 
 3. Run any example:
 ```bash
-go run tutorial/basic/01_basic_syntax.go
+go run basic/01_basic_syntax.go
 ```
 
 ## Requirements
